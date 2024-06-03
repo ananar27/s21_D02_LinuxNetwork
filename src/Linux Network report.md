@@ -76,7 +76,7 @@
 [image-id-72]: images/part8-5.png
 [image-id-73]: images/part8-6.png
 
-# Report by RAFFORDG
+# Report by ananar27
 
 ## Part 1. Инструмент ipcalc
 
